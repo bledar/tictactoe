@@ -1,0 +1,30 @@
+c:\users\bledi\documents\visual studio 2013\Projects\TicTacToe-_-Loja\TicTacToe-_-Loja\bin\Debug\TicTacToe-_-Loja.exe.config
+c:\users\bledi\documents\visual studio 2013\Projects\TicTacToe-_-Loja\TicTacToe-_-Loja\bin\Debug\TicTacToe-_-Loja.exe
+c:\users\bledi\documents\visual studio 2013\Projects\TicTacToe-_-Loja\TicTacToe-_-Loja\bin\Debug\TicTacToe-_-Loja.pdb
+c:\users\bledi\documents\visual studio 2013\Projects\TicTacToe-_-Loja\TicTacToe-_-Loja\bin\Debug\TicTacToe-_-Loja.xml
+c:\users\bledi\documents\visual studio 2013\Projects\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe___Loja.Form1.resources
+c:\users\bledi\documents\visual studio 2013\Projects\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe___Loja.Resources.resources
+c:\users\bledi\documents\visual studio 2013\Projects\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe-_-Loja.vbproj.GenerateResource.Cache
+c:\users\bledi\documents\visual studio 2013\Projects\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe-_-Loja.exe
+c:\users\bledi\documents\visual studio 2013\Projects\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe-_-Loja.xml
+c:\users\bledi\documents\visual studio 2013\Projects\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe-_-Loja.pdb
+C:\Users\bledi\OneDrive\Detyra\TicTacToe-_-Loja\TicTacToe-_-Loja\bin\Debug\TicTacToe-_-Loja.exe.config
+C:\Users\bledi\OneDrive\Detyra\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe-_-Loja.exe
+C:\Users\bledi\OneDrive\Detyra\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe-_-Loja.xml
+C:\Users\bledi\OneDrive\Detyra\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe-_-Loja.pdb
+C:\Users\bledi\OneDrive\Detyra\TicTacToe-_-Loja\TicTacToe-_-Loja\bin\Debug\TicTacToe-_-Loja.exe
+C:\Users\bledi\OneDrive\Detyra\TicTacToe-_-Loja\TicTacToe-_-Loja\bin\Debug\TicTacToe-_-Loja.pdb
+C:\Users\bledi\OneDrive\Detyra\TicTacToe-_-Loja\TicTacToe-_-Loja\bin\Debug\TicTacToe-_-Loja.xml
+C:\Users\bledi\OneDrive\Detyra\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe___Loja.Form1.resources
+C:\Users\bledi\OneDrive\Detyra\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe___Loja.Resources.resources
+C:\Users\bledi\OneDrive\Detyra\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe-_-Loja.vbproj.GenerateResource.Cache
+C:\Users\bledi\OneDrive\Detyra\VizualBazik\TicTacToe-_-Loja\TicTacToe-_-Loja\bin\Debug\TicTacToe-_-Loja.exe.config
+C:\Users\bledi\OneDrive\Detyra\VizualBazik\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe-_-Loja.exe
+C:\Users\bledi\OneDrive\Detyra\VizualBazik\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe-_-Loja.xml
+C:\Users\bledi\OneDrive\Detyra\VizualBazik\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe-_-Loja.pdb
+C:\Users\bledi\OneDrive\Detyra\VizualBazik\TicTacToe-_-Loja\TicTacToe-_-Loja\bin\Debug\TicTacToe-_-Loja.exe
+C:\Users\bledi\OneDrive\Detyra\VizualBazik\TicTacToe-_-Loja\TicTacToe-_-Loja\bin\Debug\TicTacToe-_-Loja.pdb
+C:\Users\bledi\OneDrive\Detyra\VizualBazik\TicTacToe-_-Loja\TicTacToe-_-Loja\bin\Debug\TicTacToe-_-Loja.xml
+C:\Users\bledi\OneDrive\Detyra\VizualBazik\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe___Loja.Form1.resources
+C:\Users\bledi\OneDrive\Detyra\VizualBazik\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe___Loja.Resources.resources
+C:\Users\bledi\OneDrive\Detyra\VizualBazik\TicTacToe-_-Loja\TicTacToe-_-Loja\obj\Debug\TicTacToe-_-Loja.vbproj.GenerateResource.Cache
