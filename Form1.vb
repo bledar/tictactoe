@@ -1,7 +1,7 @@
 ﻿Imports System.IO
 Imports System.Reflection
 
-
+'hello 
 Public Class Form1
     Dim T(3, 3) As Short
     Dim consol As String = "/*"
