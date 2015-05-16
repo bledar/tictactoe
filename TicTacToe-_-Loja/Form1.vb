@@ -4,13 +4,12 @@ Imports System.Reflection
 
 Public Class Form1
     Dim T(3, 3) As Short
-    Dim consol As String = "/*"
     Dim numriLevizjeve = 0
     Dim random As New Random
     Dim ranX = random.Next(0, 3)
     Dim ranY = random.Next(0, 3)
-    Dim backgraundO As Drawing.Image = My.Resources.TicTacO
-    Dim backgraundX As Drawing.Image = My.Resources.TicTacX
+    Dim backgraundO As Drawing.Color = System.Drawing.ColorTranslator.FromHtml("#1abc9c")
+    Dim backgraundX As Drawing.Color = System.Drawing.ColorTranslator.FromHtml("#e74c3c")
     Dim rrallaJote As Boolean = True
     Dim ZeroNjish = 0
 
@@ -18,7 +17,6 @@ Public Class Form1
         Dim b As Button = sender
         luaj(b)
         b.Enabled = False
-        debug()
     End Sub
    
     Sub ZeroLojen()
@@ -38,36 +36,18 @@ Public Class Form1
         ZeroLojen()
     End Sub
 
-    Sub debug()
-        consol = ""
-        For i As Integer = 0 To 2
-            For j As Integer = 0 To 2
-                consol = consol + T(i, j).ToString + " , "
-            Next
-            consol = consol + Environment.NewLine
-        Next
-        consol = consol + "X: " + ranX.ToString + Environment.NewLine
-        consol = consol + "Y: " + ranY.ToString + Environment.NewLine
-        consol = consol + "levizjet: " + numriLevizjeve.ToString + Environment.NewLine
-        consol = consol + "rrallaJote: " + rrallaJote.ToString + Environment.NewLine
-
-        dbg.Text = consol
-
-    End Sub
-
-
     Sub luaj(b As Button)
         If rrallaJote Then
             numriLevizjeve += 1
             rrallaJote = Not rrallaJote
-            b.BackgroundImage = backgraundO
+            b.BackColor = backgraundO
             b.Text = "0"
             kontrollPerFitues(b.Name.ToString)
             nrLev.Text = numriLevizjeve.ToString
             ZeroNjish = 1
         Else
             numriLevizjeve += 1
-            b.BackgroundImage = backgraundX
+            b.BackColor = backgraundX
             rrallaJote = Not rrallaJote
             b.Text = "X"
             nrLev.Text = numriLevizjeve.ToString
@@ -152,8 +132,13 @@ Public Class Form1
         Return False
     End Function
 
+
     Private Sub Button9_Click(sender As Object, e As EventArgs) Handles Button9.Click
         Application.Restart()
+    End Sub
+
+    Private Sub Button10_Click(sender As Object, e As EventArgs) Handles Button10.Click
+        Application.Exit()
     End Sub
 
 End Class
